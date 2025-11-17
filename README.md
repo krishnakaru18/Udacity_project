@@ -13,7 +13,7 @@ This project is a fully responsive, modern, single-page Advanced Portfolio Websi
 
 <img width="1743" height="995" alt="image" src="https://github.com/user-attachments/assets/d3bbf898-035c-430a-bfd9-48687ff11b23" />
 
-![Uploading Screenshot 2025-11-17 231043.png…]()
+
 
 🚀 Features
 
